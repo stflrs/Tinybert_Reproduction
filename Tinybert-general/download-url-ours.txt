@@ -1,0 +1,1 @@
+我们general蒸馏得到的模型：https://huggingface.co/Daxuxu36/General-TinyBERT-enwiki-20240301
